@@ -4,7 +4,7 @@ ul {
     padding: 0;
     overflow: hidden;
     list-style: none;
-    background-color: black;
+    background-color: rgb(235, 212, 10);
 }
 
 li {
@@ -12,18 +12,18 @@ li {
 }
 
 li a {
-    color: azure;
+    color: rgb(0, 0, 0);
     display: block;
     padding: 14px 16px;
     text-decoration: none;
 }
 
 li a:hover {
-    background-color: rgb(255, 5, 5);
+    background-color: rgb(240, 238, 122);
 }
 
 .activo {
-    background-color: rgb(255, 5, 5);
+    background-color: rgb(235, 212, 10);
 }
 
 .derecha {
@@ -33,7 +33,7 @@ li a:hover {
 .mijumbo {
     margin-top: 1rem;
     padding: 32px 16px;
-    background-color: bisque;
+    background-color: rgb(251, 255, 0);
     border-radius: 0.5rem;
     text-align: left;
 }
@@ -42,12 +42,12 @@ li a:hover {
     display: inline-block;
     margin-top: 15px;
     padding: 10px 40px;
-    border: 2px solid rgb(0, 0, 0);
-    background-color: rgb(255, 5, 5);
-    color: aliceblue;
+    border: 2px solid rgb(255, 230, 7);
+    background-color: rgb(255, 230, 7);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
 .btn:hover{
-    background-color: rgb(7, 0, 0);
+    background-color: rgb(240, 238, 122);
 }
