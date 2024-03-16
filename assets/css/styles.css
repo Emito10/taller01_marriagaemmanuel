@@ -19,11 +19,11 @@ li a {
 }
 
 li a:hover {
-    background-color: rgb(39, 2, 247);
+    background-color: rgb(255, 5, 5);
 }
 
 .activo {
-    background-color: rgb(39, 2, 247);
+    background-color: rgb(255, 5, 5);
 }
 
 .derecha {
