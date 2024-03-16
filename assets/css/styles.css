@@ -1,0 +1,53 @@
+
+ul {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style: none;
+    background-color: black;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    color: azure;
+    display: block;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(39, 2, 247);
+}
+
+.activo {
+    background-color: rgb(39, 2, 247);
+}
+
+.derecha {
+    float: left;
+}
+
+.mijumbo {
+    margin-top: 1rem;
+    padding: 32px 16px;
+    background-color: bisque;
+    border-radius: 0.5rem;
+    text-align: left;
+}
+
+.btn {
+    display: inline-block;
+    margin-top: 15px;
+    padding: 10px 40px;
+    border: 2px solid rgb(0, 0, 0);
+    background-color: rgb(255, 5, 5);
+    color: aliceblue;
+    text-decoration: none;
+}
+
+.btn:hover{
+    background-color: rgb(7, 0, 0);
+}
